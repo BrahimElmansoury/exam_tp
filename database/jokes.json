@@ -1,0 +1,23 @@
+{
+    "jokes": [
+        {
+            "id": 0,
+            "joke": "allo allo allo ",
+            "author": "ahmed",
+            "jokeLike": 0
+        },
+        {
+            "id": 1,
+            "joke": "allo allo allo ",
+            "author": "moi",
+            "jokeLike": 0
+        },
+        {
+            "id": 2,
+            "joke": "allo allo allo ",
+            "author": "moi",
+            "jokeLike": 20
+        }
+    ],
+    "lastId": 3
+}
